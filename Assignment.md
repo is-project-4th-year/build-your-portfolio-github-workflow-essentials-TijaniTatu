@@ -1,52 +1,94 @@
-# Personal Portfolio Documentation
+# 🌐 Personal Portfolio Documentation
+
+---
 
 ## 1. Student Details
 
-- **Full Name**:
-- **GitHub Username**:
-- **Email**:
+- **Full Name**: Tijani Tatu  
+- **Admission Number** : 150397
+- **GitHub Username**: [TijaniTatu](https://github.com/TijaniTatu)  
+- **School Email**:tijani.tatu@strathmore.edu
+- **Github Email**: riekotijani@gmail.com
+
+---
 
 ## 2. Deployed Portfolio Link
 
-- **GitHub Pages URL**:  
-  _(Provide the live link to your deployed portfolio website)_
+- **GitHub Pages URL**: [https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-TijaniTatu/](https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-TijaniTatu/)
+
+---
 
 ## 3. Learnings from the Git Crash Program
 
-List at least **four key concepts or skills** you learned during the Git crash course. For each one, write a brief explanation of how it helped you manage your portfolio project more effectively.
+- **Branching**: Allowed me to develop each feature independently and avoid affecting the main codebase. Each feature or fix lived in its own branch until it was ready to merge.
 
-Example format:
+- **Commit Conventions**: Using structured commit messages helped keep my history organized and readable. For example, I used `feat`, `fix`, `style`, `chore`, etc., based on the type of change.
 
-- **Branching**: Helped me separate features and prevent conflicts when working on different sections of the site.
-- _(Continue with other concepts…)_
+- **Pull Requests**: Helped me track each feature and link it back to an issue. Also let me test changes before merging into the main code.
+
+- **Merge Conflict Resolution**: I simulated and resolved a conflict between two branches that modified the same part of the footer — learning how to manually merge code.
+
+---
 
 ## 4. Screenshots of Key GitHub Features
 
-Include screenshots that demonstrate how you used GitHub to manage your project. For each screenshot, write a short caption explaining what it shows.
-
-> Upload the screenshots to your GitHub repository and reference them here using Markdown image syntax:
-> (you could just simply copy and paste the image into the Assignment.md)
-
-```markdown
-![Caption](path/to/your/image.png)
-```
 
 ### A. Milestones and Issues
-
-- Screenshot showing your milestone(s) and the issues linked to it.
-
+![Milestones and Issues](images/milestones-issues.png)
+![Milestones and Issues](images/milestone-issue.png)
 ### B. Project Board
-
-- Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
+![Project Board](images/project-board.png)
 
 ### C. Branching
-
-- Screenshot showing your branch list with meaningful naming.
+![Branches](images/branches.png)
 
 ### D. Pull Requests
-
-- Screenshot of a pull request that’s either open or merged and linked to a related issue.
+![Pull Requests](images/pull-requests.png)
 
 ### E. Merge Conflict Resolution
+![Merge Conflict](images/merge-conflict.png)
+#### solved merge conflict
+![Merge Conflict solved](images/merge-conflict-solved.png)
+---
 
-- Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
+## 5. Commit Convention Samples
+
+Here are six different commit types I used:
+
+- `feat(portfolio): add layout for landing page`
+- `style(contact): apply background and spacing to contact section`
+- `fix(conflict): resolve merge conflict in footer`
+- `docs(readme): add deployed link to Assignment.md`
+- `refactor(projects): simplify project card structure`
+- `chore(gitignore): ignore backup and build files`
+
+---
+
+## 6. Pull Request Summary
+
+| Branch Name | PR Title | Issue Closed |
+|-------------|----------|--------------|
+| `feature/3-style-header-tagline` | Style header and tagline | #3 |
+| `feature/4-project-cards` | Add project card layout | #4 |
+| `feature/5-project-links` | Add GitHub links to projects | #5 |
+| `feature/6-style-contact` | Style contact section | #6 |
+| `chore/7-enable-gh-pages` | Enable GitHub Pages | #7 |
+| `feature/8-conflict-b` | Simulated and resolved footer merge conflict | #8 |
+
+---
+
+## ✅ Submission Checklist
+
+- [x] Defined milestones for key features  
+- [x] Created and linked issues to milestones  
+- [x] Organized a GitHub project board (To Do / In Progress / Done)  
+- [x] Used structured commit messages  
+- [x] Created separate feature branches for tasks  
+- [x] Opened and merged PRs with meaningful descriptions  
+- [x] Demonstrated conflict resolution (see PR for #8)  
+- [x] Deployed the portfolio online  
+- [x] Completed and updated this Assignment.md file
+
+---
+
+
