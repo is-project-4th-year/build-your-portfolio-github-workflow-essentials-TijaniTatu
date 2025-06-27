@@ -79,15 +79,15 @@ Here are six different commit types I used:
 
 ## ✅ Submission Checklist
 
-- [x] Defined milestones for key features  
-- [x] Created and linked issues to milestones  
-- [x] Organized a GitHub project board (To Do / In Progress / Done)  
-- [x] Used structured commit messages  
-- [x] Created separate feature branches for tasks  
-- [x] Opened and merged PRs with meaningful descriptions  
-- [x] Demonstrated conflict resolution (see PR for #8)  
-- [x] Deployed the portfolio online  
-- [x] Completed and updated this Assignment.md file
+- [✅] Defined milestones for key features  
+- [✅] Created and linked issues to milestones  
+- [✅] Organized a GitHub project board (To Do / In Progress / Done)  
+- [✅] Used structured commit messages  
+- [✅] Created separate feature branches for tasks  
+- [✅] Opened and merged PRs with meaningful descriptions  
+- [✅] Demonstrated conflict resolution (see PR for #8)  
+- [✅] Deployed the portfolio online  
+- [✅] Completed and updated this Assignment.md file
 
 ---
 
