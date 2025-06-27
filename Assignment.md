@@ -34,7 +34,9 @@
 
 
 ### A. Milestones and Issues
+<u>Closed issues</u>
 ![Milestones and Issues](images/milestones-issues.png)
+<u>Open issues</u>
 ![Milestones and Issues](images/milestone-issue.png)
 ### B. Project Board
 ![Project Board](images/project-board.png)
